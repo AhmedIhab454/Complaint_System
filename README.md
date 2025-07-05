@@ -69,7 +69,7 @@ This system enables users to submit complaints easily while providing full contr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MohamedElzoghby30/Complaint_System.git
+   git clone https://github.com/AhmedIhab454/Complaint_System.git
    cd Complaint_System
 2. **Update the database connection**
 
